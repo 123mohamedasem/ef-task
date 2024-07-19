@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\studentsystem3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\data\\applicatindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:data\\applicatindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\models\\studentcorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:models\\studentcorse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\migrations\\20240719035921_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:migrations\\20240719035921_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\migrations\\20240719044321_addsecondrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:migrations\\20240719044321_addsecondrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\migrations\\20240719043953_addfirstrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:migrations\\20240719043953_addfirstrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\migrations\\20240719043140_addstudentcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:migrations\\20240719043140_addstudentcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\migrations\\20240719041153_addhomeworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:migrations\\20240719041153_addhomeworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\migrations\\20240719040807_addresourcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:migrations\\20240719040807_addresourcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\migrations\\20240719040511_addcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:migrations\\20240719040511_addcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|e:\\studentsystem3\\migrations\\20240719040250_addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09A93E8-B533-44E0-B60A-957B596FAE24}|studentsystem3.csproj|solutionrelative:migrations\\20240719040250_addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240719044321_Addsecondrelation.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\Migrations\\20240719044321_Addsecondrelation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719044321_Addsecondrelation.cs",
+              "ToolTip": "E:\\studentsystem3\\Migrations\\20240719044321_Addsecondrelation.cs",
+              "RelativeToolTip": "Migrations\\20240719044321_Addsecondrelation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:43:21.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240719043953_Addfirstrelation.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\Migrations\\20240719043953_Addfirstrelation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719043953_Addfirstrelation.cs",
+              "ToolTip": "E:\\studentsystem3\\Migrations\\20240719043953_Addfirstrelation.cs",
+              "RelativeToolTip": "Migrations\\20240719043953_Addfirstrelation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:39:53.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\models\\student.cs",
+              "RelativeDocumentMoniker": "models\\student.cs",
+              "ToolTip": "E:\\studentsystem3\\models\\student.cs",
+              "RelativeToolTip": "models\\student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:00:59.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "course.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\models\\course.cs",
+              "RelativeDocumentMoniker": "models\\course.cs",
+              "ToolTip": "E:\\studentsystem3\\models\\course.cs",
+              "RelativeToolTip": "models\\course.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA8wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:03:59.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\models\\Program.cs",
+              "RelativeDocumentMoniker": "models\\Program.cs",
+              "ToolTip": "E:\\studentsystem3\\models\\Program.cs",
+              "RelativeToolTip": "models\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:54:15.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240719043140_Addstudentcourses.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\Migrations\\20240719043140_Addstudentcourses.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719043140_Addstudentcourses.cs",
+              "ToolTip": "E:\\studentsystem3\\Migrations\\20240719043140_Addstudentcourses.cs",
+              "RelativeToolTip": "Migrations\\20240719043140_Addstudentcourses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:31:40.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "homework.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\models\\homework.cs",
+              "RelativeDocumentMoniker": "models\\homework.cs",
+              "ToolTip": "E:\\studentsystem3\\models\\homework.cs",
+              "RelativeToolTip": "models\\homework.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:09:51.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studentcorse.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\models\\studentcorse.cs",
+              "RelativeDocumentMoniker": "models\\studentcorse.cs",
+              "ToolTip": "E:\\studentsystem3\\models\\studentcorse.cs",
+              "RelativeToolTip": "models\\studentcorse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:27:24.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240719041153_Addhomeworks.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\Migrations\\20240719041153_Addhomeworks.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719041153_Addhomeworks.cs",
+              "ToolTip": "E:\\studentsystem3\\Migrations\\20240719041153_Addhomeworks.cs",
+              "RelativeToolTip": "Migrations\\20240719041153_Addhomeworks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:11:54.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicatinDbcontext.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\data\\ApplicatinDbcontext.cs",
+              "RelativeDocumentMoniker": "data\\ApplicatinDbcontext.cs",
+              "ToolTip": "E:\\studentsystem3\\data\\ApplicatinDbcontext.cs",
+              "RelativeToolTip": "data\\ApplicatinDbcontext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:57:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240719040807_Addresourcess.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\Migrations\\20240719040807_Addresourcess.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719040807_Addresourcess.cs",
+              "ToolTip": "E:\\studentsystem3\\Migrations\\20240719040807_Addresourcess.cs",
+              "RelativeToolTip": "Migrations\\20240719040807_Addresourcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:08:07.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "resource.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\models\\resource.cs",
+              "RelativeDocumentMoniker": "models\\resource.cs",
+              "ToolTip": "E:\\studentsystem3\\models\\resource.cs",
+              "RelativeToolTip": "models\\resource.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:06:52.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240719040511_Addcourses.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\Migrations\\20240719040511_Addcourses.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719040511_Addcourses.cs",
+              "ToolTip": "E:\\studentsystem3\\Migrations\\20240719040511_Addcourses.cs",
+              "RelativeToolTip": "Migrations\\20240719040511_Addcourses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:05:11.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240719040250_Addstudents.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\Migrations\\20240719040250_Addstudents.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719040250_Addstudents.cs",
+              "ToolTip": "E:\\studentsystem3\\Migrations\\20240719040250_Addstudents.cs",
+              "RelativeToolTip": "Migrations\\20240719040250_Addstudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:02:50.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240719035921_intial.cs",
+              "DocumentMoniker": "E:\\studentsystem3\\Migrations\\20240719035921_intial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719035921_intial.cs",
+              "ToolTip": "E:\\studentsystem3\\Migrations\\20240719035921_intial.cs",
+              "RelativeToolTip": "Migrations\\20240719035921_intial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:59:22.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
